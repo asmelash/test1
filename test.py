@@ -1,2 +1,2 @@
-Hi this is a test file for learning git
+Hi this is a test file on github
 
